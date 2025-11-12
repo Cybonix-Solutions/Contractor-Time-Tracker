@@ -258,8 +258,8 @@ This software is provided "as-is" without warranty of any kind. Users are respon
 
 **Developer**: Joseph Mark Orimoloye  
 **Company**: Cybonix Solutions LLC  
-**GitHub**: [@yourusername](https://github.com/yourusername)  
-**Issues**: [GitHub Issues](https://github.com/yourusername/contractor-time-tracker/issues)
+**GitHub**: [@Cybonix](https://github.com/Cybonix)  
+**Issues**: [Email: Cybonix Solutions](mailto:jorimoloye@cybonixsolutions.com)
 
 For bug reports, feature requests, or questions, please open an issue on GitHub.
 
