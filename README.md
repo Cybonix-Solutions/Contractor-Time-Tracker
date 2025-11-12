@@ -50,7 +50,7 @@ A professional, feature-rich time tracking and invoicing application for contrac
 
 1. **Download the HTML file**
    ```bash
-   git clone https://github.com/yourusername/contractor-time-tracker.git
+   git clone https://github.com/Cybonix-Solutions/Contractor-Time-Tracker.git
    cd contractor-time-tracker
    ```
 
