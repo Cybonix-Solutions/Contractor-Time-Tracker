@@ -73,10 +73,10 @@ Since this is a single-file HTML application, setup is minimal:
 # Fork the repository on GitHub
 
 # Clone your fork
-git clone https://github.com/YOUR-USERNAME/contractor-time-tracker.git
+git clone https://github.com/Cybonix-Solutions/Contractor-Time-Tracker.git
 
 # Navigate to the directory
-cd contractor-time-tracker
+cd Contractor-Time-Tracker
 
 # Create a new branch for your feature
 git checkout -b feature/your-feature-name
@@ -367,9 +367,9 @@ We especially welcome contributions in these areas:
 
 Need help contributing? Reach out:
 
-- 💬 Open a [GitHub Discussion](https://github.com/yourusername/contractor-time-tracker/discussions)
-- 🐛 Check [existing issues](https://github.com/yourusername/contractor-time-tracker/issues)
-- 📧 Contact: [Create an issue](https://github.com/yourusername/contractor-time-tracker/issues/new)
+- 💬 Open a [GitHub Discussion](https://github.com/Cybonix-Solutions/Contractor-Time-Tracker/discussions)
+- 🐛 Check [existing issues](https://github.com/Cybonix-Solutions/Contractor-Time-Tracker/issues)
+- 📧 Contact: [Create an issue](https://github.com/Cybonix-Solutions/Contractor-Time-Tracker/issues/new)
 
 ---
 

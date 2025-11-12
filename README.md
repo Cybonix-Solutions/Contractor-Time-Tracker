@@ -8,7 +8,7 @@
 
 A professional, feature-rich time tracking and invoicing application for contractors and freelancers. Built with React and designed for simplicity and privacy - all data stays local on your device.
 
-**Developed by [Joseph Mark Orimoloye](https://github.com/yourusername)**  
+**Developed by [Joseph Mark Orimoloye](https://github.com/Cybonix)**  
 **© 2025 Cybonix Solutions LLC**
 
 ---

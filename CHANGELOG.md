@@ -116,7 +116,7 @@ The first official release of Contractor Time Tracker by Joseph Mark Orimoloye a
 
 **Note**: This changelog is maintained by Joseph Mark Orimoloye and Cybonix Solutions LLC.
 
-For detailed commit history, see [GitHub Commits](https://github.com/Cybonix-Solutions/contractor-time-tracker/commits).
+For detailed commit history, see [GitHub Commits](https://github.com/Cybonix-Solutions/Contractor-Time-Tracker/commits).
 
 ---
 
